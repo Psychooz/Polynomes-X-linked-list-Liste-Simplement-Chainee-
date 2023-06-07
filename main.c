@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-//Ziad BKL
+
+//Made by : Ziad BKL
+
 struct monome {
     float coef;
     int ex;
@@ -9,7 +11,9 @@ struct monome {
 };
 
 typedef struct monome Monome;
-//Ziad BKL
+
+//Made by : Ziad BKL
+
 Monome* saisirPolynome() {
     Monome* tete = NULL;
     Monome* courant = NULL;
