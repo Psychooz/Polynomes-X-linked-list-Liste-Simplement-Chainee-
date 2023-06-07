@@ -56,7 +56,7 @@ void affichePolynome(Monome* P) {
     }
 
     while (courant != NULL) {
-        printf("%.2f X(^%d) ", courant->coef, courant->ex);
+        printf("%.2f X(^%d) + ", courant->coef, courant->ex);
         courant = courant->next;
     }
 
