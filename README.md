@@ -1,5 +1,5 @@
 
-# Polynomes X linked list (Liste Simplement Chainee)
+# Polynomials  X linked list (Liste Simplement Chainee)
 
 Solution of our exercice about linked lists in the programming language "**C**"
 
